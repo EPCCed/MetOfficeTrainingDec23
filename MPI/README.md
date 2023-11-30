@@ -2,7 +2,7 @@
 
 <br /><br /><br /><br /><br />
 
-# ARCHER2 MPI course (February 2023)
+# Met Office MPI course (December 2023)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -13,7 +13,7 @@ using this programming model, and is directly applicable to almost
 every parallel computer architecture.
 
 Parallel programming by definition involves co-operation between
-processes to solve a common task. The programmer has to define the
+processors to solve a common task. The programmer has to define the
 tasks that will be executed by the processors, and also how these
 tasks are to synchronise and exchange data with one another. In the
 message-passing model the tasks are separate processes that
@@ -27,12 +27,11 @@ point-to-point communication, non-blocking operations, derived
 datatypes, virtual topologies, collective communication and general
 design issues.
 
-The course is normally delivered in an intensive three-day format
-using EPCC's dedicated training facilities. It is taught using a
-variety of methods including formal lectures, practical exercises,
-programming examples and informal tutorial discussions. This enables
-lecture material to be supported by the tutored practical sessions in
-order to reinforce the key concepts.
+This course will be run over two days, slightly shortert than the
+normal three-day format, usinga variety of methods including formal
+lectures, practical exercises, programming examples and informal
+tutorial discussions. This enables lecture material to be supported by
+the tutored practical sessions in order to reinforce the key concepts.
 
 <h3>Intended Learning Outcomes</h3>
 
@@ -56,34 +55,8 @@ MPI from Python.
 
 <h2>Message Passing Programming with MPI</h2>
 
-<p><strong>Dates: </strong>23rd, 24th and 30th March 2022
-<p><strong>Location: </strong>Imperial College, London</p>
-
-Imperial College,</br>
-Seminar and Learning Centre,</br>
-5th Floor,</br>
-Sherfield Building,</br>
-London (Kensington Campus),</br>
-SW7 2BB
-
-*  February 22, 2023 SALC 10
-*  February 23, 2023 SALC 1
-*  February 24, 2023 SALC 10
-
-<h3>Viewing Images on ARCHER2</h3>
-
-The instructions for viewing images, contained in the slides for the
-Case Study exercise on Day 3, will no longer work on ARCHER2 as the
-`display` program has different behaviour from before.
-
-To view any of the PGM files (input edge data or output reconstructed
-images) you can use the `pgmdisplay` program:
-
-    user@archer2:~$ module load imagemagick
-    user@archer2:~$ pgmdisplay edge192x128.pgm
-
-Note that the image may take some time to appear as exporting X11
-graphics over the network can be rather slow.
+<p><strong>Dates: </strong>7th - 8th December 2023
+<p><strong>Location: </strong>Met Office, Exeter</p>
 
 <h3>Lecture Slides</h3>
 
