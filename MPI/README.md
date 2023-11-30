@@ -82,6 +82,7 @@ MPI from Python.
 <h4>Friday 8th December</h4>
 
 <ul>
+
 <li>    09:30 Pi Solution
 <li>    10:00 Non-Blocking Communication
 <li>    10:30 Practical: Message Round a Ring
@@ -90,10 +91,10 @@ MPI from Python.
 <li>    12:00 Collective Communication
 <li>    12:30 Lunch
 <li>    13:30 Practical: Collective Communication
-<li>    14:00 Virtual Topologies and Derived Data Types
+<li>    14:00 Overview of Virtual Topologies and Derived Data Types
 <li>    14:30 Case Study
-<li>    15:00 Finish Exercises / Indivdual Consultancy
-<li>    16:30 Close
+<li>    15:00 Optional Session: Finish Exercises / Indivdual Consultancy
+<li>    16:00 Close
 
 </ul>
 
@@ -103,8 +104,8 @@ MPI from Python.
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-Note that these are slides from a previous run of the course and may
-be updated between now and December 7th.
+Note that currently these are slides from a previous run of the course
+and may be updated between now and December 7th.
 
 <h4>Day 1</h4>
 
