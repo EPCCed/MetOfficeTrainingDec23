@@ -93,7 +93,7 @@ MPI from Python.
 <li>    13:30 Practical: Collective Communication
 <li>    14:00 Overview of Virtual Topologies and Derived Data Types
 <li>    14:30 Case Study
-<li>    15:00 Final Optional Session: Finish Exercises / Indivdual Consultancy
+<li>    15:00 Final Optional Session: Finish Exercises / Individual Consultancy
 <li>    16:00 Close
 
 </ul>
