@@ -58,11 +58,53 @@ MPI from Python.
 <p><strong>Dates: </strong>7th - 8th December 2023
 <p><strong>Location: </strong>Met Office, Exeter</p>
 
+
+<h3>Timetable</h3>
+
+<h4>Thursday 7th December</h4>
+
+<ul>
+<li>    09:30 Message-Passing Concepts
+<li>    10:15 Practical: Parallel Traffic Modelling
+<li>    10:45 Break
+<li>    11:15 MPI Programs
+<li>    12:00 MPI Programs on Cirrus
+<li>    12:15 Practical: Hello World
+<li>    12:30 Lunch
+<li>    13:30 Point-to-Point Communication
+<li>    14:15 Practical: Pi
+<li>    15:00 Break
+<li>    15:30 Communicators, Tags and Modes
+<li>    16:15 Practical: Pi / Ping-Pong
+<li>    17:00 Finish
+</ul>
+
+<h4>Friday 8th December</h4>
+
+<ul>
+<li>    09:30 Pi Solution
+<li>    10:00 Non-Blocking Communication
+<li>    10:30 Practical: Message Round a Ring
+<li>    10:45 Break
+<li>    11:15 Practical: Message Round a Ring (cont)
+<li>    12:00 Collective Communication
+<li>    12:30 Lunch
+<li>    13:30 Practical: Collective Communication
+<li>    14:00 Virtual Topologies and Derived Data Types
+<li>    14:30 Case Study
+<li>    15:00 Finish Exercises / Indivdual Consultancy
+<li>    16:30 Close
+
+</ul>
+
 <h3>Lecture Slides</h3>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
+
+Note that these are slides from a previous run of the course and may
+be updated between now and December 7th.
 
 <h4>Day 1</h4>
 
