@@ -152,7 +152,7 @@ and may be updated between now and December 7th.
 
 <ul>
 <li><a href="https://github.com/EPCCed/MetOfficeTrainingDec23/raw/main/MPI/exercises/road.pdf">Traffic modelling exercise sheet</a></li>
-<li><a href="https://github.com/EPCCed/MetOfficeTrainingDec23/raw/main/MPI/exercises/ARCHER2-MPI-cribsheet.pdf">Instructions for logging on, compiling and running MPI jobs on ARCHER2</a></li>
+<li><a href="https://github.com/EPCCed/MetOfficeTrainingDec23/raw/main/MPI/exercises/Cirrus-MPI-cribsheet.pdf">Instructions for logging on, compiling and running MPI jobs on Cirrus</a></li>
 <li><a href="https://github.com/EPCCed/MetOfficeTrainingDec23/raw/main/MPI/exercises/MPP-templates.tar">Useful files and pieces of code: MPP-templates.tar</a></li>
 <li><a href="https://github.com/EPCCed/MetOfficeTrainingDec23/raw/main/MPI/exercises/MPP-exercises.pdf">MPI exercise sheet</a></li>
 <li><a href="https://github.com/EPCCed/MetOfficeTrainingDec23/raw/main/MPI/exercises/MPP-pi.tar">Detailed solutions to pi calculation example</a>
